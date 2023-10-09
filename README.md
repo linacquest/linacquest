@@ -1,4 +1,13 @@
-### Hi there 👋
+**LiNAC Quest** (www.linac.quest) **is an exciting quest to save millions of lives!** Based on an article published in the Journal of "Precision Radiation Oncology", it intends to concern LiNAC manufacturers to modify their devices to **use negative charges exclusively**. These may tremendously **increase the precision and safety of radiotherapy cancer treatments, reducing side effects**, to be demonstrated in clinical trials. The quest consist of three stages:
+
+**Stage 1 (done)**:
+Scopus article (Graphical Abstract) with the hypothesis of using negative charges in LiNAC devices that may increase the precision and reduce the side effects of cancer radiotherapy
+
+**Stage 2**:
+Engage LiNAC manufacturers to upgrade their devices using negative charges, e.g., Varian Medical Systems (USA), Elekta AB (Sweden) and Sumitomo Heavy Industries (Japan) (list)
+
+**Stage 3**:
+Engage medical centers to conduct clinical trials to demonstrate the paradigm-changing premises on increased precision and reduction of side effects in cancer patients
 
 <!--
 **linacquest/linacquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
